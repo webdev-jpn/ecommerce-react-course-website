@@ -1,4 +1,3 @@
-import { use } from "react";
 import { useCart } from "../context/CartContext.jsx";
 
 export default function Checkout() {
